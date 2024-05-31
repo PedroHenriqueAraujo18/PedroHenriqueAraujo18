@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @PedroHenriqueAraujo18, a student of software engeneering in Pontíficia Universidade Católica de Campinas.
-- 👀 I’m interested in  be a real programmer.
-- 🌱 I’m currently learning C,Java,Python.
-- 💞️ I’m looking to collaborate on anything i can doo.
-- 📫 How to reach me: send me a mail.
+Ola, Eu sou @PedroHenriqueAraujo18, um  estudante  de engenharia de software da Pontíficia Universidade Católica de Campinas.
+Aprendo C,Java,Python.
+Qualquer contato comigo envie nos emails:
+pedrohenriquesantoasaraujo@hotmail.com
+troopper.san@gmail.com
 
-<!---
-PedroHenriqueAraujo18/PedroHenriqueAraujo18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
